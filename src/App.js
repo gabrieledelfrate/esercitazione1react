@@ -1,4 +1,4 @@
-import "../src/App.css"
+import './A'
 import React from 'react';
 import Car from 'react';
 import { ButtonComponent } from '../src/components/button';
